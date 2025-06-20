@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Desfile San Pedrito</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Registro</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="terms_and_conditions">Términos y Condiciones</string>
+    <string name="terms_and_conditions_content">Contenido de Términos y Condiciones</string>
+
+    <string name="historia_san_pedrito">
+        La fiesta de San Pedrito en Chimbote, Perú, es una celebración religiosa y cultural en honor a San Pedro, el santo patrón de los pescadores. Se celebra cada 29 de junio, con procesiones, música y fuegos artificiales, y es considerada la fiesta más grande de la ciudad.
+    </string>
+
+    <string name="desfile_san_pedrito">
+        El desfile de San Pedrito en Chimbote es una celebración anual en honor a San Pedro, el patrón de los pescadores. Este evento combina elementos religiosos y culturales, incluyendo procesiones marítimas y terrestres, así como actividades cívicas, artísticas y gastronómicas, para resaltar la identidad cultural y la historia pesquera de Chimbote.
+    </string>
+
+    <string name="museo_barco">
+        El Barco Museo San Pedrito, ubicado a la entrada del Vivero Forestal de Chimbote, es una embarcación pesquera de 350 toneladas convertida en museo por la diócesis de Chimbote. Su objetivo principal es educativo, mostrando aspectos de la pesca y los componentes de un barco pesquero, además de exhibir piezas como huacos, herramientas de pesca y dispositivos de navegación.
+    </string>
+
+    <string name="feria_vivero">
+        La Feria de San Pedrito en el Vivero Forestal de Chimbote ofrece una variedad de atracciones, incluyendo gastronomía local y nacional, artesanías, prendas de vestir, y espectáculos con artistas nacionales e internacionales. También hay juegos mecánicos y una exposición con réplicas de restos arqueológicos de la cultura Chavín.
+    </string>
+
+    <string name="juegos_feria">
+        Diversión para toda la familia con la Rueda de la Fortuna y el clásico \"Gusanito\". Tickets: S/5 por juego.
+    </string>
+</resources>
